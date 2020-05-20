@@ -1,0 +1,11 @@
+{
+  "name": "SpotifyToYtMusic",
+  "version": "1.0",
+  "permissions": ["tabs", "webRequest", "webRequestBlocking", "<all_urls>"],
+  "description": "Chrome extension to direct all spotify links to a youtube music link instead",
+  "background": {
+  	"scripts": ["background.js"],
+    "persistent": true
+  },
+  "manifest_version": 2
+}
