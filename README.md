@@ -1,5 +1,5 @@
 ﻿# Spotify To Youtube Music
-A chrome extension that converts spotify links to youtube music links.
+A chrome extension that automatically redirect spotify links to youtube music links.
 
 Do you ever get sick of getting spotify links from friends/family and having to go to youtube and search it? Well I had enough and developed the solution.
 
